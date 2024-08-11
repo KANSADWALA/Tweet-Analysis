@@ -26,6 +26,8 @@ This project focuses on performing comprehensive tweet analysis using a dataset 
 
 ## Challenges and Solutions
 
+<b>Time Complexity in Sentiment Analysis:</b> The sentiment analysis using the roBERTa model was time-consuming due to the large dataset. This was addressed by optimizing the data pipeline and using batch processing.
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
