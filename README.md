@@ -23,17 +23,28 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
 ## Technologies Used
 
 <ul>
-  <li><b>Python:</b> The primary programming language used for data analysis and processing.</li>
+  
+  <li><b>NumPy:</b> For numerical computations.</li>
   
   <li><b>Pandas:</b> Utilized for data manipulation and analysis.</li>
   
   <li><b>Matplotlib & Seaborn:</b> Employed for data visualization.</li>
+
+  <li><b>Scikit-learn:</b> Used for machine learning tasks like feature extraction and dimensionality reduction.
+</li>
+
+  <li><b>Latent Dirichlet Allocation (LDA):</b> For topic modeling to identify patterns in text data.
+  </li>
+
+  <li><b>Regular Expressions (re):</b> For text preprocessing and pattern matching.</li>
   
-  <li><b>NLTK:</b> Natural language processing.</li>
+  <li><b>NLTK (Natural Language Toolkit):</b> Natural language processing.</li>
   
-  <li><b>Transformers (Hugging Face):</b> Used the roBERTa model for sentiment analysis.</li>
+  <li><b>Transformers (Hugging Face):</b> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
   
   <li><b>Jupyter Notebook:</b> Used for experimentation and development.</li>
+
+  
 </ul>
 
 
