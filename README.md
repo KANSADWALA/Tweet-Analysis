@@ -138,7 +138,7 @@ tweet-analysis/
 
 
 
-## Challenges and Solutions
+## Challenges faced
 
 <b>Time Complexity in Sentiment Analysis:</b> The sentiment analysis using the roBERTa model was time-consuming due to the large dataset. This was addressed by optimizing the data pipeline and using batch processing.
 
