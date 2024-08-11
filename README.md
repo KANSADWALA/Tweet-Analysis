@@ -99,8 +99,6 @@ pip install -r requirements.txt
 tweet analysis.ipynb
 </code></pre>
 
-<h3>Accessing Results</h3>
-<p>The results, including visualizations and summary statistics, will be saved in the <code>results/</code> directory. You can view these results by navigating to the directory and opening the corresponding files.</p>
 
 </body>
 </html>
@@ -108,18 +106,35 @@ tweet analysis.ipynb
 
 ## Project Structure
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<p>The directory structure of the project is as follows:</p>
+
+<pre><code class="bash">
 tweet-analysis/
 │
 ├── data/
-│   ├── training.1600000.processed.noemoticon.csv                 # The Kaggle dataset of 1.6 million tweets
-│                                                                 # Preprocessed data after cleaning and analysis
+│   ├── training.1600000.processed.noemoticon.csv   # The Kaggle dataset of 1.6 million tweets
+│                                                   # Preprocessed data after cleaning and analysis
 │
 ├── notebooks/
-│   └── tweet_analysis.ipynb                                      # Jupyter Notebook for sentiment analysis and other analyses
+│   └── tweet_analysis.ipynb                        # Jupyter Notebook for sentiment analysis and other analyses
 │ 
-├── requirements.txt                                              # List of dependencies
+├── requirements.txt                                # List of dependencies
 │
-└── README.md                                                     # Project documentation
+└── README.md                                       # Project documentation
+
+</code></pre>
+
+</body>
+</html>
+
 
 
 ## Challenges and Solutions
