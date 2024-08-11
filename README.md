@@ -53,11 +53,8 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Getting Started</title>
 </head>
 <body>
-
-<h2>Getting Started</h2>
 
 <h3>Prerequisites</h3>
 <p>Ensure that you have the following installed on your local machine:</p>
@@ -91,7 +88,7 @@ pip install -r requirements.txt
 <h3>Data Preparation</h3>
 <p>The dataset used in this project is available on Kaggle. You need to download the dataset and place it in the appropriate directory:</p>
 <ol>
-    <li>Download the dataset from Kaggle: <a href="https://www.kaggle.com/datasets/your-dataset-url">1.6 Million Tweets Dataset</a>.</li>
+    <li>Download the dataset from Kaggle: <a href="[https://www.kaggle.com/datasets/your-dataset-url](https://www.kaggle.com/datasets/kazanova/sentiment140)">1.6 Million Tweets Dataset</a>.</li>
     <li>Extract the dataset and place it in the <code>data/</code> directory inside the project folder.</li>
 </ol>
 
