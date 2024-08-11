@@ -43,18 +43,86 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
   <li><b>Transformers (Hugging Face):</b> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
   
   <li><b>Jupyter Notebook:</b> Used for experimentation and development.</li>
-
-  
 </ul>
-
-
-
-
 
 
 ## Getting Started
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Getting Started</title>
+</head>
+<body>
+
+<h2>Getting Started</h2>
+
+<h3>Prerequisites</h3>
+<p>Ensure that you have the following installed on your local machine:</p>
+<ul>
+    <li><strong>Python 3.8+</strong>: The project is built using Python. You can download Python from <a href="https://www.python.org/downloads/">python.org</a>.</li>
+    <li><strong>pip</strong>: Python's package installer, which is typically included with Python installations.</li>
+    <li><strong>Git</strong>: For cloning the repository.</li>
+</ul>
+
+<h3>Installation</h3>
+<ol>
+    <li><strong>Clone the Repository:</strong>
+        <pre><code class="bash">
+git clone https://github.com/yourusername/tweet-analysis.git
+cd tweet-analysis
+        </code></pre>
+    </li>
+    <li><strong>Create a Virtual Environment:</strong>
+        <pre><code class="bash">
+python3 -m venv venv
+source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+        </code></pre>
+    </li>
+    <li><strong>Install Required Packages:</strong>
+        <pre><code class="bash">
+pip install -r requirements.txt
+        </code></pre>
+    </li>
+</ol>
+
+<h3>Data Preparation</h3>
+<p>The dataset used in this project is available on Kaggle. You need to download the dataset and place it in the appropriate directory:</p>
+<ol>
+    <li>Download the dataset from Kaggle: <a href="https://www.kaggle.com/datasets/your-dataset-url">1.6 Million Tweets Dataset</a>.</li>
+    <li>Extract the dataset and place it in the <code>data/</code> directory inside the project folder.</li>
+</ol>
+
+<h3>Running the Project</h3>
+<p>Once everything is set up, you can run the analysis by executing the following command:</p>
+<pre><code class="bash">
+python analysis.py
+</code></pre>
+
+<h3>Accessing Results</h3>
+<p>The results, including visualizations and summary statistics, will be saved in the <code>results/</code> directory. You can view these results by navigating to the directory and opening the corresponding files.</p>
+
+</body>
+</html>
+
+
 ## Project Structure
+
+tweet-analysis/
+│
+├── data/
+│   ├── training.1600000.processed.noemoticon.csv                 # The Kaggle dataset of 1.6 million tweets
+│                                                                 # Preprocessed data after cleaning and analysis
+│
+├── notebooks/
+│   └── tweet_analysis.ipynb                                      # Jupyter Notebook for sentiment analysis and other analyses
+│ 
+├── requirements.txt                                              # List of dependencies
+│
+└── README.md                                                     # Project documentation
+
 
 ## Challenges and Solutions
 
