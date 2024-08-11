@@ -120,8 +120,9 @@ tweet analysis.ipynb
 tweet-analysis/
 │
 ├── data/
+|   ├── kaggle.json
 │   ├── training.1600000.processed.noemoticon.csv   # The Kaggle dataset of 1.6 million tweets
-│                                                   # Preprocessed data after cleaning and analysis
+│                                                   
 │
 ├── notebooks/
 │   └── tweet_analysis.ipynb                        # Jupyter Notebook for sentiment analysis and other analyses
