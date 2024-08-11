@@ -5,6 +5,21 @@ This project focuses on performing comprehensive tweet analysis using a dataset 
 
 ## Features
 
+<ul>
+  <li><b>Sentiment Analysis:</b> Categorizes tweets into positive, negative, or neutral sentiments.</li>
+  
+  <li><b>Sentiment Trends Over Time:</b> Analyzes how sentiments evolve over a specific period.</li>
+  
+  <li><b>Tweet Volume Patterns:</b> Explores tweet volume across different time frames to identify peaks and patterns.</li>
+  
+  <li><b>Tweet Activity Over Time:</b> Tracks the activity levels of tweets over time, helping to identify trends in user engagement.
+</li>
+
+  <li><b>Total User Count:</b> Provides the total number of unique users in the dataset.</li>
+  
+  <li><b>Top 10 Most Active Users:</b> Identifies and lists the top 10 users with the highest tweet counts.</li>
+</ul>
+
 ## Technologies Used
 
 <ul>
