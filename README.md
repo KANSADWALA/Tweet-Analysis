@@ -1,4 +1,5 @@
-# Tweet-Analysis
+Tweet-Analysis
+<hr></hr>
 
 ## Overview
 This project focuses on performing comprehensive tweet analysis using a dataset of 1.6 million tweets from Kaggle. The analysis aims to uncover patterns, sentiment trends, hashtag popularity, and tweet activity over time. Advanced machine learning models like the RoBERTa sentiment analysis model are employed to deliver insights with visualizations.
