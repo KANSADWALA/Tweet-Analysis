@@ -1,4 +1,4 @@
-# 📊 Tweet-Analysis
+# 📊 Tweet Analysis
 
 ## Overview
 This project involves analyzing a dataset of 1.6 million tweets to extract meaningful insights through various analyses. The key objective is to perform sentiment analysis on the tweets and explore trends over time, user activity, and other metrics that can help understand the dynamics of the data. Advanced natural language processing techniques, along with data visualization, are employed to achieve this.
