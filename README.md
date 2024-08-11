@@ -95,7 +95,7 @@ pip install -r requirements.txt
 <h3>Running the Project</h3>
 <p>Once everything is set up, you can run the analysis by executing the following command:</p>
 <pre><code class="bash">
-python analysis.py
+tweet analysis.ipynb
 </code></pre>
 
 <h3>Accessing Results</h3>
