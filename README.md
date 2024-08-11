@@ -6,10 +6,19 @@ This project focuses on performing comprehensive tweet analysis using a dataset 
 ## Features
 
 ## Technologies Used
-Python: The primary programming language used for data analysis and processing.
-Pandas: Utilized for data manipulation and analysis.
-Matplotlib & Seaborn: Employed for data visualization.
-Transformers (Hugging Face): Used the roBERTa model for sentiment analysis.
+
+<ol>
+  <li><b>Python:</b> The primary programming language used for data analysis and processing.</li>
+  <li><b>Pandas:</b> Utilized for data manipulation and analysis.</li>
+  <li><b>Matplotlib & Seaborn:</b> Employed for data visualization.</li>
+  <li><b>Transformers (Hugging Face):</b> Used the roBERTa model for sentiment analysis.</li>
+  <li><b>Jupyter Notebook:</b> Used for experimentation and development.</li>
+</ol>
+
+
+
+
+
 
 ## Getting Started
 
