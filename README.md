@@ -46,7 +46,6 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
   <li><strong>Transformers (Hugging Face):</strong> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
   
 
-
 ## Getting Started
 
 <!DOCTYPE html>
