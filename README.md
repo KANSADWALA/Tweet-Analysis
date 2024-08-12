@@ -27,11 +27,11 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
   
   <li><strong>Libraries:</strong> 
   <ul> 
-    <li><strong>NumPy</strong> for numerical operations.</li>
-    <li><strong>Pandas</strong> for data manipulation.</li>
+    <li><strong>NumPy:</strong> for numerical operations.</li>
+    <li><strong>Pandas:</strong> for data manipulation.</li>
     <li><strong>Matplotlib & Seaborn:</strong> Employed for data visualization.</li>
     <li>
-      <strong>Scikit-learn</strong>  Used for machine learning tasks like feature extraction and dimensionality reduction.
+      <strong>Scikit-learn:</strong>  Used for machine learning tasks like feature extraction and dimensionality reduction.
              <ul><li><strong>Latent Dirichlet Allocation (LDA):</strong> For topic modeling to identify patterns in text data.
                 </li>
              </ul>
