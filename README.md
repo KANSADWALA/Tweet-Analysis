@@ -6,43 +6,43 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
 ## Features
 
 <ul>
-  <li><b>Sentiment Analysis:</b> Categorizes tweets into positive, negative, or neutral sentiments.</li>
+  <li><strong>Sentiment Analysis:</strong> Categorizes tweets into positive, negative, or neutral sentiments.</li>
   
-  <li><b>Sentiment Trends Over Time:</b> Analyzes how sentiments evolve over a specific period.</li>
+  <li><strong>Sentiment Trends Over Time:</strong> Analyzes how sentiments evolve over a specific period.</li>
   
-  <li><b>Tweet Volume Patterns:</b> Explores tweet volume across different time frames to identify peaks and patterns.</li>
+  <li><strong>Tweet Volume Patterns:</strong> Explores tweet volume across different time frames to identify peaks and patterns.</li>
   
-  <li><b>Tweet Activity Over Time:</b> Tracks the activity levels of tweets over time, helping to identify trends in user engagement.
+  <li><strong>Tweet Activity Over Time:</strong> Tracks the activity levels of tweets over time, helping to identify trends in user engagement.
 </li>
 
-  <li><b>Total User Count:</b> Provides the total number of unique users in the dataset.</li>
+  <li><strong>Total User Count:</strong> Provides the total number of unique users in the dataset.</li>
   
-  <li><b>Top 10 Most Active Users:</b> Identifies and lists the top 10 users with the highest tweet counts.</li>
+  <li><strong>Top 10 Most Active Users:</strong> Identifies and lists the top 10 users with the highest tweet counts.</li>
 </ul>
 
 ## Technologies Used
 
 <ul>
   
-  <li><b>NumPy:</b> For numerical computations.</li>
+  <li><strong>NumPy:</strong> For numerical computations.</li>
   
-  <li><b>Pandas:</b> Utilized for data manipulation and analysis.</li>
+  <li><strong>Pandas:</strong> Utilized for data manipulation and analysis.</li>
   
-  <li><b>Matplotlib & Seaborn:</b> Employed for data visualization.</li>
+  <li><strong>Matplotlib & Seaborn:</strong> Employed for data visualization.</li>
 
-  <li><b>Scikit-learn:</b> Used for machine learning tasks like feature extraction and dimensionality reduction.
+  <li><strong>Scikit-learn:</strong> Used for machine learning tasks like feature extraction and dimensionality reduction.
 </li>
 
-  <li><b>Latent Dirichlet Allocation (LDA):</b> For topic modeling to identify patterns in text data.
+  <li><strong>Latent Dirichlet Allocation (LDA):</strong> For topic modeling to identify patterns in text data.
   </li>
 
-  <li><b>Regular Expressions (re):</b> For text preprocessing and pattern matching.</li>
+  <li><strong>Regular Expressions (re):</strong> For text preprocessing and pattern matching.</li>
   
-  <li><b>NLTK (Natural Language Toolkit):</b> Natural language processing.</li>
+  <li><strong>NLTK (Natural Language Toolkit):</strong> Natural language processing.</li>
   
-  <li><b>Transformers (Hugging Face):</b> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
+  <li><strong>Transformers (Hugging Face):</strong> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
   
-  <li><b>Jupyter Notebook:</b> Used for experimentation and development.</li>
+  <li><strong>Jupyter Notebook:</strong> Used for experimentation and development.</li>
 </ul>
 
 
