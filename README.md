@@ -23,27 +23,28 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
 ## Technologies Used
 
 <ul>
+  <li><strong>Programming Languages:</strong> Python</li>
   
-  <li><strong>NumPy:</strong> For numerical computations.</li>
-  
-  <li><strong>Pandas:</strong> Utilized for data manipulation and analysis.</li>
-  
-  <li><strong>Matplotlib & Seaborn:</strong> Employed for data visualization.</li>
-
-  <li><strong>Scikit-learn:</strong> Used for machine learning tasks like feature extraction and dimensionality reduction.
-</li>
-
-  <li><strong>Latent Dirichlet Allocation (LDA):</strong> For topic modeling to identify patterns in text data.
+  <li><strong>Libraries:</strong> 
+  <ul> 
+    <li><strong>NumPy</strong> for numerical operations.</li>
+    <li><strong>Pandas</strong> for data manipulation.</li>
+    <li><strong>Matplotlib & Seaborn:</strong> Employed for data visualization.</li>
+    <li>
+      <strong>Scikit-learn</strong>  Used for machine learning tasks like feature extraction and dimensionality reduction.
+             <ul><li><strong>Latent Dirichlet Allocation (LDA):</strong> For topic modeling to identify patterns in text data.
+                </li>
+             </ul>
+    </li>
+  </ul>
   </li>
-
+  
   <li><strong>Regular Expressions (re):</strong> For text preprocessing and pattern matching.</li>
   
   <li><strong>NLTK (Natural Language Toolkit):</strong> Natural language processing.</li>
   
   <li><strong>Transformers (Hugging Face):</strong> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
   
-  <li><strong>Jupyter Notebook:</strong> Used for experimentation and development.</li>
-</ul>
 
 
 ## Getting Started
