@@ -44,7 +44,8 @@ This project involves analyzing a dataset of 1.6 million tweets to extract meani
   <li><strong>NLTK (Natural Language Toolkit):</strong> Natural language processing.</li>
   
   <li><strong>Transformers (Hugging Face):</strong> Specifically, the `AutoModelForSequenceClassification` and `AutoTokenizer` were used for sentiment analysis with transformer models like RoBERTa.</li>
-  
+
+</ul>
 
 ## Getting Started
 
